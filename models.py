@@ -85,4 +85,4 @@ class RateModels:
             ids.append(rec_id)
         logger.info("bulk_insert quotas: %d rows", len(ids))
         return ids
-# Last sync: 2026-09-02 14:47:33 UTC
+# Last sync: 2026-09-02 15:30:32 UTC
